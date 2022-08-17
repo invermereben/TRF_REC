@@ -24,7 +24,7 @@ let akckfrPtn = 0.02;
 let vudrbsrkrthreh = 0;
 let wndfurrkthreh = 9.8;
 let rkdyrnxhzm = 0;
-let dkswjsrPtn = 2.0;
+let dkswjsrPtn = 1.5;
 let dyrnvudrbsxhzm = 0;
 let ehdrlrnehd = 1;
 
