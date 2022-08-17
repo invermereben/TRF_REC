@@ -140,7 +140,7 @@ function convert1() {
   rkavlfdyxhzm = (rkthrqngk*1 + akckfqngk*1+dhlqngla*1)/ehdrlrnehd;
   document.getElementById("rkavlfdyxhzm").value = Math.ceil(rkavlfdyxhzm * 1000) / 1000;
   dhlqngla = document.getElementById("dhlqngla").value;
-  vudrbsxhzm = (rkvlfdyxhzm * 2 + emdvlfdyxhzm * 3) / 3;
+  vudrbsxhzm = (rkvlfdyxhzm * 2 + emdvlfdyxhzm) / 3;
   document.getElementById("vudrbsxhzm").value = Math.ceil(vudrbsxhzm * 1000) / 1000;
   if(document.getElementById("akckfrPtn").value==0){akckfrPtn=0.02;}
   else{akckfrPtn = document.getElementById("akckfrPtn").value;}
